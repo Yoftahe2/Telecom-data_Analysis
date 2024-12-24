@@ -27,7 +27,7 @@ virtualenv
 
         Clone the project repository to your local machine using the following command:
     
-        git clone 
+        git clone https://github.com/Yoftahe2/Telecom-data_Analysis
 
     2. Install dependencies
     
